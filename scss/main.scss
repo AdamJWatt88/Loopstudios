@@ -1,1 +1,61 @@
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/JosefinSans-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'Alata-Regular';
+    src: url('../font/Alata-Regular.ttf');
+}
+
+* {
+    font-family: 'Josefin Sans';
+}
+
+
+//! cant get this to work
+// $body-font-family: 'Josefin Sans';
+
+// $custom-fonts:(
+//     'body-font':$body-font-family;
+// )
+
+// $custom-fonts: map($theme-fonts, $custom-fonts)
+
+// $theme-fonts:(
+//     'body-font':$body-font-family;
+// )
+
+.nav-link {
+    font-family: 'Alata-Regular';
+}
+
+.hero {
+    background: center no-repeat url('../images/desktop/image-hero.jpg');
+    background-size: cover;
+    height: 650px;
+
+    &-body {
+        width: 50%;
+        
+        text-transform: uppercase;
+        text-align: left;
+
+        & > h1 {
+            font-size: clamp(2.5rem, 1.8333rem + 2.9630vw, 4.5rem);
+        }
+    }
+
+    @media (max-width: 992px) {
+        &-body {
+            width: 100%; 
+        }
+    }
+    
+
+
+}
+
+
 @import '../node_modules/bootstrap/scss/bootstrap.scss'
+

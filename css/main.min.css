@@ -1,4 +1,4 @@
-/*!
+@font-face{font-family:'Josefin Sans';src:url("../font/JosefinSans-VariableFont_wght.ttf")}@font-face{font-family:'Alata-Regular';src:url("../font/Alata-Regular.ttf")}*{font-family:'Josefin Sans'}.nav-link{font-family:'Alata-Regular'}.hero{background:center no-repeat url("../images/desktop/image-hero.jpg");background-size:cover;height:650px}.hero-body{width:50%;font-size:72px;text-transform:uppercase}@media (max-width: 992px){.hero-body{width:100%;font-size:40px}}/*!
  * Bootstrap v5.2.0-beta1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.

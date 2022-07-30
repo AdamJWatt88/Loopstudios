@@ -156,3 +156,7 @@ body {
     padding: 0px;
   }
 }
+
+.test--white {
+  border: solid 5px white;
+}

@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/loopstudios-built-with-bootstrap--U2PUFn6cs](https://www.frontendmentor.io/solutions/loopstudios-built-with-bootstrap--U2PUFn6cs)
+- Live Site URL: [https://loopstudios54.netlify.app/](https://loopstudios54.netlify.app/)
 
 ## My process
 
@@ -44,6 +44,5 @@ In this project I became acquainted with Bootstrap and the capabilities it posse
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Adam Watt](https://www.adamjwatt.com/)
+- Frontend Mentor - [@AdamJWatt88](https://www.frontendmentor.io/profile/AdamJWatt88)
